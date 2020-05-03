@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeShare", "CodeShare\CodeShare.csproj", "{4269996A-274B-48ED-AAD4-3FA6B7E8DDD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{49D33756-A470-4816-8EB3-6BA37954A1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeShareTests", "CodeShareTests\CodeShareTests.csproj", "{1334F1C2-5B0E-48AC-889B-628A3F4D635E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4269996A-274B-48ED-AAD4-3FA6B7E8DDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4269996A-274B-48ED-AAD4-3FA6B7E8DDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4269996A-274B-48ED-AAD4-3FA6B7E8DDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4269996A-274B-48ED-AAD4-3FA6B7E8DDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1334F1C2-5B0E-48AC-889B-628A3F4D635E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1334F1C2-5B0E-48AC-889B-628A3F4D635E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1334F1C2-5B0E-48AC-889B-628A3F4D635E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1334F1C2-5B0E-48AC-889B-628A3F4D635E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1334F1C2-5B0E-48AC-889B-628A3F4D635E} = {49D33756-A470-4816-8EB3-6BA37954A1B8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A250111-B03F-41C9-A428-581EE01C2D26}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4002 @@
+[
+  {
+    "CityName": "Farmington",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "Champaign",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Norwich",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Charleston",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Santa Cruz",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Coconut Creek",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Minot",
+    "StateName": "North Dakota"
+  },
+  {
+    "CityName": "Richmond",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Buena Park",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Chandler",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Mesa",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Hanford",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Denton",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Dover",
+    "StateName": "Delaware"
+  },
+  {
+    "CityName": "Middletown",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Albany",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Avondale",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Weston",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Corvallis",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Plainfield",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Marlborough",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Pasadena",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "San Angelo",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Lowell",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Friendswood",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Arlington",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Vallejo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Gardena",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pleasanton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Sparks",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Oakland Park",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Peoria",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Compton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Sanford",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "West Sacramento",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Newark",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Conroe",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Fall River",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Kearny",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Harrisonburg",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Cicero",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Sugar Land",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Binghamton",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Sioux City",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Murfreesboro",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Portland",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Plainfield",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Conway",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Hillsboro",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Downers Grove",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Fort Myers",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Aliso Viejo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Longmont",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "McAllen",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Union City",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Owensboro",
+    "StateName": "Kentucky"
+  },
+  {
+    "CityName": "Palm Beach Gardens",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Hoover",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Dubuque",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Somerville",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Grand Junction",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Cheyenne",
+    "StateName": "Wyoming"
+  },
+  {
+    "CityName": "Bloomington",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Huntington",
+    "StateName": "West Virginia"
+  },
+  {
+    "CityName": "Las Cruces",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "Lawrence",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Colorado Springs",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "St. Louis",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Allentown",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Santa Fe",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "Burlington",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Santa Clara",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lincoln",
+    "StateName": "Nebraska"
+  },
+  {
+    "CityName": "Brooklyn Park",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Fort Collins",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Rock Island",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Jacksonville",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Jacksonville",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Muncie",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Hialeah",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Kokomo",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Renton",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Harrisburg",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Jonesboro",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Danville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "North Charleston",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Columbus",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "La Quinta",
+    "StateName": "California"
+  },
+  {
+    "CityName": "National City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Fresno",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Madison",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Alameda",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Baytown",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Victorville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Edinburg",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Huntington Beach",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Detroit",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "West New York",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Meridian",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "State College",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Portsmouth",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Cypress",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pompano Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Sayreville",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "San Jacinto",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Littleton",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Citrus Heights",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Mountain View",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Macon",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "New Braunfels",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Norfolk",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Doral",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Elyria",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Spokane Valley",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Portland",
+    "StateName": "Maine"
+  },
+  {
+    "CityName": "Newport Beach",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Mount Vernon",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "San Antonio",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Independence",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Costa Mesa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Burleson",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Ogden",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Janesville",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Duluth",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Strongsville",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Yonkers",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Edmonds",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Gresham",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Tempe",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Lehi",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Rosemead",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Turlock",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Inglewood",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Annapolis",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Napa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Albuquerque",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "Wilmington",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Fort Lauderdale",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Richardson",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Coon Rapids",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Little Rock",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Antioch",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Port Orange",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Warwick",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Moore",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Stanton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Centennial",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Rogers",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Auburn",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Berkeley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Altoona",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Carmel",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Highland",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Everett",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Sherman",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Holyoke",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Fargo",
+    "StateName": "North Dakota"
+  },
+  {
+    "CityName": "Atlantic City",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Kenosha",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Fort Wayne",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Cambridge",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Appleton",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Des Plaines",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Lake Oswego",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Topeka",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Homestead",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Grapevine",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Mission Viejo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "San Mateo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Arlington Heights",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Winston-Salem",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Harlingen",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "South Bend",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Prescott Valley",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Beaumont",
+    "StateName": "California"
+  },
+  {
+    "CityName": "North Miami",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Omaha",
+    "StateName": "Nebraska"
+  },
+  {
+    "CityName": "Laguna Niguel",
+    "StateName": "California"
+  },
+  {
+    "CityName": "St. Cloud",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Santa Ana",
+    "StateName": "California"
+  },
+  {
+    "CityName": "New Orleans",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Dearborn Heights",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Boca Raton",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "St. Louis Park",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Pico Rivera",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Loveland",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Worcester",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Washington",
+    "StateName": "District of Columbia"
+  },
+  {
+    "CityName": "Albany",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Lee's Summit",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Concord",
+    "StateName": "New Hampshire"
+  },
+  {
+    "CityName": "Springfield",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Attleboro",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Apple Valley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Billings",
+    "StateName": "Montana"
+  },
+  {
+    "CityName": "Menifee",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Stamford",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Rancho Palos Verdes",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Allen",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Stockton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Cerritos",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Maple Grove",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Lakewood",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Vineland",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Mount Pleasant",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Salem",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Hagerstown",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Monterey Park",
+    "StateName": "California"
+  },
+  {
+    "CityName": "St. Paul",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Lompoc",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Edmond",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Kent",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Eagan",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Boynton Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Manassas",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Beaumont",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Portage",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Cleveland Heights",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "High Point",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "North Las Vegas",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Greenville",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Dublin",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Carson City",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Asheville",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Sandy Springs",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Lima",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Kannapolis",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Council Bluffs",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Valley Stream",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "La Habra",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Longview",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Springfield",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Mankato",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Mentor",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Gastonia",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Cedar Hill",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Collierville",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Marion",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Romeoville",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Margate",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Roanoke",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Indio",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Streamwood",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Miami Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Grove City",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Wichita Falls",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Burnsville",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Prescott",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Columbia",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Calexico",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Simi Valley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Colton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Wyoming",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Layton",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Hartford",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Linden",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Norwalk",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Springfield",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "McKinney",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Niagara Falls",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Pinellas Park",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Goodyear",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Vancouver",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Chapel Hill",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Bedford",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "North Miami Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Whittier",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Rio Rancho",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "St. Cloud",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Palm Desert",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Green Bay",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "La Crosse",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Fort Pierce",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Maplewood",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Pawtucket",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Fullerton",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Perth Amboy",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Memphis",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Hurst",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Canton",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Chicopee",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Missouri City",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Woburn",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Dublin",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Florence",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Sumter",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Bristol",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Beloit",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Ocala",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Hutchinson",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "St. Charles",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Bellevue",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Keller",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Haverhill",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Cedar Rapids",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Rialto",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Round Rock",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Idaho Falls",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Broken Arrow",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Sarasota",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Chico",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Oceanside",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Kentwood",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Broomfield",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Pembroke Pines",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Shoreline",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Port Arthur",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Oshkosh",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Paterson",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Garden Grove",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pensacola",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Bellingham",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Woodbury",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Chino Hills",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lynn",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Sterling Heights",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Westerville",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "New Brunswick",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Tuscaloosa",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Diamond Bar",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Great Falls",
+    "StateName": "Montana"
+  },
+  {
+    "CityName": "Joliet",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Kissimmee",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Galveston",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Olathe",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "West Valley City",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Parker",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Saginaw",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Orange",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Altamonte Springs",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Lakewood",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Rocklin",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pittsburg",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Peabody",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Aurora",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Crystal Lake",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Wylie",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Oro Valley",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Norwalk",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Southaven",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "Cape Coral",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Downey",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Hawthorne",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Delano",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pomona",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Minnetonka",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Palm Coast",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Yorba Linda",
+    "StateName": "California"
+  },
+  {
+    "CityName": "East Orange",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Manchester",
+    "StateName": "New Hampshire"
+  },
+  {
+    "CityName": "Buffalo",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Taunton",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Racine",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Orlando",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Lawton",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Livonia",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Cedar Park",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Hoffman Estates",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Battle Creek",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Greensboro",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Hesperia",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Daly City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Miami Gardens",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Shreveport",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Decatur",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Rapid City",
+    "StateName": "South Dakota"
+  },
+  {
+    "CityName": "Culver City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Quincy",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Puyallup",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Fountain Valley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Tracy",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lincoln Park",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Wausau",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Shawnee",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Providence",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Utica",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Kingsport",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Cedar Falls",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Pasadena",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Erie",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Wilson",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Pearland",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Charlottesville",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Edina",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Oak Lawn",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Honolulu",
+    "StateName": "Hawaii"
+  },
+  {
+    "CityName": "Flagstaff",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Freeport",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Santa Clarita",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Portage",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "San Leandro",
+    "StateName": "California"
+  },
+  {
+    "CityName": "East Lansing",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Richmond",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Norman",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Parma",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Elgin",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "South Gate",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Bozeman",
+    "StateName": "Montana"
+  },
+  {
+    "CityName": "Rockwall",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Hickory",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Enid",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Kirkland",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Knoxville",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Grand Prairie",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Federal Way",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "South Jordan",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Los Angeles",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Iowa City",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Lynchburg",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Buckeye",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Miramar",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Lafayette",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Springfield",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Findlay",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Mount Prospect",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Bridgeport",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Germantown",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "West Covina",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Gainesville",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Naperville",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Waterbury",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Missoula",
+    "StateName": "Montana"
+  },
+  {
+    "CityName": "Bloomington",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Troy",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Temecula",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lawrence",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Apopka",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Bend",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "San Diego",
+    "StateName": "California"
+  },
+  {
+    "CityName": "El Paso",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Davie",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Hemet",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Evanston",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Alexandria",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Gilbert",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Bossier City",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "South San Francisco",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Oak Park",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Warren",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Fayetteville",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Orland Park",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Brentwood",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Hilton Head Island",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Milford",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Greenfield",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Pasco",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Davenport",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Oxnard",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Santa Maria",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Upland",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Tustin",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Westminster",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Troy",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Lincoln",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Brea",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Warren",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "League City",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Kansas City",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Winter Garden",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "St. Clair Shores",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Camarillo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Ankeny",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Danville",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Skokie",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Denver",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "White Plains",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Lansing",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Sierra Vista",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Covington",
+    "StateName": "Kentucky"
+  },
+  {
+    "CityName": "Wilkes-Barre",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Reading",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Chelsea",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Placentia",
+    "StateName": "California"
+  },
+  {
+    "CityName": "San Clemente",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pine Bluff",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Virginia Beach",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Corona",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Fairfield",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Arvada",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Schaumburg",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Glendale",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Odessa",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Irving",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Rohnert Park",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Redding",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Reno",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Milpitas",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Alhambra",
+    "StateName": "California"
+  },
+  {
+    "CityName": "New Rochelle",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Largo",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Escondido",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Boise City",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Jersey City",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Murray",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Evansville",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Fort Worth",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Fayetteville",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Louisville/Jefferson County",
+    "StateName": "Kentucky"
+  },
+  {
+    "CityName": "Irvine",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Torrance",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Novi",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Dunwoody",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Ames",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Apache Junction",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Philadelphia",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Waukegan",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Covina",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Auburn",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Gadsden",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Bolingbrook",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Laredo",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Huber Heights",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Meridian",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Oklahoma City",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Baldwin Park",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Palo Alto",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Farmington Hills",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Nashua",
+    "StateName": "New Hampshire"
+  },
+  {
+    "CityName": "Malden",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Manteca",
+    "StateName": "California"
+  },
+  {
+    "CityName": "El Monte",
+    "StateName": "California"
+  },
+  {
+    "CityName": "West Jordan",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Maricopa",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Phoenix",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Tyler",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Grand Rapids",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Brownsville",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Elizabeth",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Sandy",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Lancaster",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Cape Girardeau",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Castle Rock",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Euless",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Lodi",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Hanover Park",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Porterville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Columbus",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Deltona",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Jupiter",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Bowie",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Rockford",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Pacifica",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Logan",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Clearwater",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Pharr",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "East Providence",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Boston",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Redlands",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Waukesha",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Hammond",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Bentonville",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Riverside",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Bellflower",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Passaic",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Augusta-Richmond County",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Weymouth Town",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Perris",
+    "StateName": "California"
+  },
+  {
+    "CityName": "St. Peters",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Warner Robins",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Abilene",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Sunrise",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Sheboygan",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Schenectady",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Garland",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Goose Creek",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Manhattan",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Amarillo",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Novato",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Franklin",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Port St. Lucie",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Clovis",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Normal",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Tinley Park",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Eastvale",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Huntersville",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Frisco",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Blacksburg",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Hampton",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Draper",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Chino",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Modesto",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Bismarck",
+    "StateName": "North Dakota"
+  },
+  {
+    "CityName": "Bartlett",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Concord",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Lake Forest",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Glendora",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Wauwatosa",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Carson",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Huntsville",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Bradenton",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Anaheim",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Santa Rosa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Walnut Creek",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Danbury",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Coppell",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Everett",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Kenner",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Pittsfield",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Burien",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Columbia",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Rocky Mount",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Salina",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "San Marcos",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Hayward",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Anderson",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Park Ridge",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Camden",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Pueblo",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Des Moines",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Hoboken",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Madera",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Casper",
+    "StateName": "Wyoming"
+  },
+  {
+    "CityName": "North Little Rock",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Mansfield",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Midwest City",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Roy",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "San Ramon",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Greenville",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Lubbock",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Hempstead",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Sammamish",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Bartlett",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Sioux Falls",
+    "StateName": "South Dakota"
+  },
+  {
+    "CityName": "Meriden",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Youngstown",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Brentwood",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Rochester Hills",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Henderson",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Chicago",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Newark",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "North Richland Hills",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Montclair",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Bellevue",
+    "StateName": "Nebraska"
+  },
+  {
+    "CityName": "Concord",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Oakland",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Ann Arbor",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Spokane",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "St. George",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Kalamazoo",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Deerfield Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Campbell",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Beverly",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Woonsocket",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Lake Havasu City",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Grand Island",
+    "StateName": "Nebraska"
+  },
+  {
+    "CityName": "Apex",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Salt Lake City",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Santa Barbara",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Salinas",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Methuen",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Lynwood",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Carrollton",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "San Luis Obispo",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Long Beach",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Wichita",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Revere",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Lancaster",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Petaluma",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Johnson City",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Coral Gables",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Keizer",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Baton Rouge",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Fremont",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Gulfport",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "Anchorage",
+    "StateName": "Alaska"
+  },
+  {
+    "CityName": "Bountiful",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Jurupa Valley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Madison",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Bremerton",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Cranston",
+    "StateName": "Rhode Island"
+  },
+  {
+    "CityName": "Caldwell",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Eden Prairie",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Austin",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Lancaster",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Moreno Valley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Yuba City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Wheaton",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Yuma",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Spartanburg",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Lenexa",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Leesburg",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Chula Vista",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Duncanville",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Dallas",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Chesterfield",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Vacaville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Salem",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Minneapolis",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Jackson",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Sacramento",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Apple Valley",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Northglenn",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Roswell",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Valdosta",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "College Station",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Carol Stream",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Davis",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Boulder",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Springfield",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Cutler Bay",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Casa Grande",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "West Allis",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Alpharetta",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "West Palm Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Shelton",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Mansfield",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Plantation",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Texarkana",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Lewisville",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Olympia",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Bowling Green",
+    "StateName": "Kentucky"
+  },
+  {
+    "CityName": "Bloomington",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Kansas City",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Hattiesburg",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "Rochester",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Lakeland",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Middletown",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "O'Fallon",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Killeen",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Pontiac",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Scranton",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Dayton",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Mission",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Redondo Beach",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Plymouth",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Akron",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Yakima",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Newport News",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "San Bruno",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Weslaco",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Livermore",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Florissant",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Aurora",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Orem",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Lawrence",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Gary",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Albany",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Titusville",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Jeffersonville",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Bayonne",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Frederick",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Charlotte",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Murrieta",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Los Banos",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Arcadia",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Azusa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Hackensack",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "El Cajon",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Berwyn",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Flint",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Lakewood",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Summerville",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Wilmington",
+    "StateName": "Delaware"
+  },
+  {
+    "CityName": "Chesapeake",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Fond du Lac",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Mesquite",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Glenview",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Fitchburg",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Woodland",
+    "StateName": "California"
+  },
+  {
+    "CityName": "San Bernardino",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Folsom",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Suffolk",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Paramount",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Coral Springs",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Cathedral City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Tulare",
+    "StateName": "California"
+  },
+  {
+    "CityName": "North Lauderdale",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Medford",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Watsonville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lombard",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Elmhurst",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "New Haven",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Greenacres",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Roseville",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Rockville",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Glendale",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Carlsbad",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Medford",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Springdale",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Overland Park",
+    "StateName": "Kansas"
+  },
+  {
+    "CityName": "Royal Oak",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Riverton",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Delray Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "St. Petersburg",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Fontana",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Waco",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "North Port",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Tallahassee",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Yucaipa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Visalia",
+    "StateName": "California"
+  },
+  {
+    "CityName": "New York",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Lakeville",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Mishawaka",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Morgan Hill",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Haltom City",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Marysville",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "La Mesa",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Encinitas",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Burbank",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Montgomery",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Atlanta",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Victoria",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Rancho Cordova",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Milwaukee",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "La Puente",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Roswell",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "Cleveland",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Newark",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Pocatello",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Lake Elsinore",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Scottsdale",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Addison",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Richland",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Baltimore",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "DeKalb",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Cincinnati",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Plano",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "The Colony",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Brockton",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Lake Charles",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "York",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Noblesville",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Dothan",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Georgetown",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Ceres",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Toledo",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Jefferson City",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Corpus Christi",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Durham",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Palm Bay",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Nashville-Davidson",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Ocoee",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Redwood City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Lexington-Fayette",
+    "StateName": "Kentucky"
+  },
+  {
+    "CityName": "Hallandale Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Elk Grove",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Dearborn",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Joplin",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Marietta",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Lacey",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Newton",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "San Jose",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Santa Monica",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Fishers",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Hollywood",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Monroe",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Elkhart",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Twin Falls",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Raleigh",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Fairfield",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Decatur",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Alexandria",
+    "StateName": "Virginia"
+  },
+  {
+    "CityName": "Birmingham",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "El Centro",
+    "StateName": "California"
+  },
+  {
+    "CityName": "San Buenaventura (Ventura)",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Aventura",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Mobile",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Stillwater",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Beaverton",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Poway",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Taylorsville",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Tampa",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Columbus",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Leominster",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Greeley",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Shakopee",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Cuyahoga Falls",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Rowlett",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Texas City",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Biloxi",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "Quincy",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Hendersonville",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Midland",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Daytona Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Kettering",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Urbandale",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Union City",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Tigard",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Oakley",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Thousand Oaks",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Eau Claire",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Midland",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Muskogee",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Cleveland",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Coachella",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Melbourne",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Ormond Beach",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Kennewick",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Palm Springs",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Clifton",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Syracuse",
+    "StateName": "New York"
+  },
+  {
+    "CityName": "Flower Mound",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Cary",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Carpentersville",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Belleville",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Wheeling",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Hamilton",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Peoria",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Charleston",
+    "StateName": "West Virginia"
+  },
+  {
+    "CityName": "Westminster",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Calumet City",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Bethlehem",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "Rancho Santa Margarita",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Miami",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Clarksville",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Lakewood",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Provo",
+    "StateName": "Utah"
+  },
+  {
+    "CityName": "Buffalo Grove",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Coeur d'Alene",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Houston",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Indianapolis",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Florence",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "La Mirada",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Surprise",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Greenwood",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "San Francisco",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Tulsa",
+    "StateName": "Oklahoma"
+  },
+  {
+    "CityName": "Wellington",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Fort Smith",
+    "StateName": "Arkansas"
+  },
+  {
+    "CityName": "Montebello",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Redmond",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Moorhead",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "New Berlin",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Taylor",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Pittsburgh",
+    "StateName": "Pennsylvania"
+  },
+  {
+    "CityName": "West Haven",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Martinez",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Eugene",
+    "StateName": "Oregon"
+  },
+  {
+    "CityName": "Brookfield",
+    "StateName": "Wisconsin"
+  },
+  {
+    "CityName": "Beavercreek",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Savannah",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Barnstable Town",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Urbana",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Tamarac",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Bonita Springs",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "DeSoto",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Tacoma",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Westland",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Ontario",
+    "StateName": "California"
+  },
+  {
+    "CityName": "San Gabriel",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Waltham",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Monrovia",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Smyrna",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Bakersfield",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Goldsboro",
+    "StateName": "North Carolina"
+  },
+  {
+    "CityName": "Tucson",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Commerce City",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "Smyrna",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Roseville",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Vista",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Blaine",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "Bullhead City",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Huntsville",
+    "StateName": "Alabama"
+  },
+  {
+    "CityName": "Seattle",
+    "StateName": "Washington"
+  },
+  {
+    "CityName": "Bell Gardens",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Grand Forks",
+    "StateName": "North Dakota"
+  },
+  {
+    "CityName": "Las Vegas",
+    "StateName": "Nevada"
+  },
+  {
+    "CityName": "Trenton",
+    "StateName": "New Jersey"
+  },
+  {
+    "CityName": "Lancaster",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Thornton",
+    "StateName": "Colorado"
+  },
+  {
+    "CityName": "St. Joseph",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Sunnyvale",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Euclid",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Chattanooga",
+    "StateName": "Tennessee"
+  },
+  {
+    "CityName": "Bryan",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "Burlington",
+    "StateName": "Vermont"
+  },
+  {
+    "CityName": "Lafayette",
+    "StateName": "Louisiana"
+  },
+  {
+    "CityName": "Rock Hill",
+    "StateName": "South Carolina"
+  },
+  {
+    "CityName": "Moline",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Muskegon",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Merced",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Westfield",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "Nampa",
+    "StateName": "Idaho"
+  },
+  {
+    "CityName": "Waterloo",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Rochester",
+    "StateName": "Minnesota"
+  },
+  {
+    "CityName": "West Des Moines",
+    "StateName": "Iowa"
+  },
+  {
+    "CityName": "Gaithersburg",
+    "StateName": "Maryland"
+  },
+  {
+    "CityName": "Southfield",
+    "StateName": "Michigan"
+  },
+  {
+    "CityName": "Lorain",
+    "StateName": "Ohio"
+  },
+  {
+    "CityName": "Lauderhill",
+    "StateName": "Florida"
+  },
+  {
+    "CityName": "Palmdale",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Rancho Cucamonga",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Johns Creek",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Temple",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "San Rafael",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Gilroy",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Blue Springs",
+    "StateName": "Missouri"
+  },
+  {
+    "CityName": "Huntington Park",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Marana",
+    "StateName": "Arizona"
+  },
+  {
+    "CityName": "Clovis",
+    "StateName": "New Mexico"
+  },
+  {
+    "CityName": "New Britain",
+    "StateName": "Connecticut"
+  },
+  {
+    "CityName": "Athens-Clarke County",
+    "StateName": "Georgia"
+  },
+  {
+    "CityName": "Palatine",
+    "StateName": "Illinois"
+  },
+  {
+    "CityName": "Jackson",
+    "StateName": "Mississippi"
+  },
+  {
+    "CityName": "Cupertino",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Terre Haute",
+    "StateName": "Indiana"
+  },
+  {
+    "CityName": "Santee",
+    "StateName": "California"
+  },
+  {
+    "CityName": "Pflugerville",
+    "StateName": "Texas"
+  },
+  {
+    "CityName": "New Bedford",
+    "StateName": "Massachusetts"
+  },
+  {
+    "CityName": "San Marcos",
+    "StateName": "California"
+  }
+]

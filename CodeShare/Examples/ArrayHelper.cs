@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CodeShare.Examples.Abstract;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Metadata;
@@ -53,6 +54,12 @@ namespace CodeShare.Examples
         {
             // Todo: Remove duplicates
             return new int[0];
+        }
+
+        public static void HitBoss(WeaponBase weapon)
+        {
+            var random = new Random();
+            var damage = weapon.DoSomeDamage(random.Next(0, 100));
         }
     }
 }

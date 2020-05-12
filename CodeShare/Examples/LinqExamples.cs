@@ -22,28 +22,28 @@ namespace CodeShare.Examples
         //Predicates
         //  A predicate delegate methods must take one input parameter and return a boolean - true or false
 
-        public static bool Any2<T>(this List<T> tInputs, Predicate<T> predicate)
-        {
-            foreach (var tInput in tInputs)
-            {
-                if (predicate(tInput))
-                {
-                    return true;
-                }
-            }
+        //public static bool Any2<T>(this List<T> tInputs, Predicate<T> predicate)
+        //{
+        //    foreach (var tInput in tInputs)
+        //    {
+        //        if (predicate(tInput))
+        //        {
+        //            return true;
+        //        }
+        //    }
 
-            return false;
-        }
+        //    return false;
+        //}
 
-        public static IEnumerable<CityInfo> Where2(this IEnumerable<CityInfo> cityInfos, Predicate<CityInfo> predicate)
-        {
-            foreach (var cityInfo in cityInfos)
-            {
-                if (predicate(cityInfo))
-                {
-                    yield return cityInfo;
-                }
-            }
-        }
+        //public static IEnumerable<CityInfo> Where2(this IEnumerable<CityInfo> cityInfos, Predicate<CityInfo> predicate)
+        //{
+        //    foreach (var cityInfo in cityInfos)
+        //    {
+        //        if (predicate(cityInfo))
+        //        {
+        //            yield return cityInfo;
+        //        }
+        //    }
+        //}
     }
 }
